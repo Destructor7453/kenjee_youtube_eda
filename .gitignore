@@ -10,7 +10,6 @@ venv/
 env/
 
 # Data files
-*.csv
 *.xlsx
 *.zip
 

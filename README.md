@@ -16,3 +16,6 @@ Tools & Libraries:
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Jupyter Notebook / VS Code
+
+Data found: 
+https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data?select=Aggregated_Metrics_By_Video.csv
